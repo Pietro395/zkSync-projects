@@ -16,3 +16,8 @@ Feel free to contribute!
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
 - [Gitcoin](https://gitcoin.co/) - Fund projects on Gitcoin with zkSync
 - [Curve + zkSync](https://zksync.curve.fi/) - Curve is an exchange liquidity pool on Ethereum
+
+
+##
+
+Want to buy me a coffee? zkSync wallet 0x64E25193092C0EAD1d83c6F85C558A282a24460c
