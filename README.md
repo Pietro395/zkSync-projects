@@ -15,3 +15,4 @@ Feel free to contribute!
 - [Argent Wallet](https://www.argent.xyz/) - Layer 2 Wallet built on zkSync
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
 - [Gitcoin](https://gitcoin.co/) - Fund projects on Gitcoin with zkSync
+- [Curve + zkSync](https://zksync.curve.fi/) - Curve is an exchange liquidity pool on Ethereum
