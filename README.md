@@ -16,7 +16,7 @@ Feel free to contribute!
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
 - [Gitcoin](https://gitcoin.co/) - Fund projects on Gitcoin with zkSync
 - [Curve + zkSync](https://zksync.curve.fi/) - Curve is an exchange liquidity pool on Ethereum
-- [Numio Wallet](https://zksync.curve.fi/) - Layer 2 Wallet built on zkSync
+- [Numio Wallet](https://www.numio.one/) - Layer 2 Wallet built on zkSync
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
 - [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2 Wallet (Avoid L1 bridging fees)
 
