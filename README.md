@@ -14,3 +14,4 @@ Feel free to contribute!
 - [ZigZag Exchange](https://info.zigzag.exchange/) - A Decentralized Exchange Powered by zkSync
 - [Argent Wallet](https://www.argent.xyz/) - Layer 2 Wallet built on zkSync
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
+- [Gitcoin](https://gitcoin.co/) - Fund projects on Gitcoin with zkSync
