@@ -20,7 +20,7 @@ Feel free to contribute!
 - [Numio Wallet](https://www.numio.one/) - Layer 2 Wallet built on zkSync
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
 - [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2 Wallet (Avoid L1 bridging fees)
-- [Storj](https://www.storj.io/) - Decentralized Cloud Storage, Storj use zkSync for for host payments
+- [Storj](https://www.storj.io/) - Decentralized Cloud Storage, Storj use zkSync for host payments
 
 
 ##
