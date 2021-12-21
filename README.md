@@ -21,6 +21,9 @@ Feel free to contribute!
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
 - [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2 Wallet (Avoid L1 bridging fees)
 - [Storj](https://www.storj.io/) - Decentralized Cloud Storage, Storj use zkSync for host payments
+- [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
+- [Mute.io](https://mute.io/) - Mute makes cryptocurrency more accessible by providing an L2 based DeFi suite utilizing ZK-Rollup scalability
+
 
 
 ##
