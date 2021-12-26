@@ -23,6 +23,7 @@ Feel free to contribute!
 - [Storj](https://www.storj.io/) - Decentralized Cloud Storage, Storj use zkSync for host payments
 - [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
 - [Mute.io](https://mute.io/) - Mute makes cryptocurrency more accessible by providing an L2 based DeFi suite utilizing ZK-Rollup scalability
+- [LayerSwap](https://www.layerswap.io/) - Bridge your ETH from CEX to zkSync account
 
 
 
