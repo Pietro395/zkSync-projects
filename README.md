@@ -15,7 +15,6 @@ Feel free to contribute!
 ## Finance
 
 - [ZigZag Exchange](https://info.zigzag.exchange/) - A Decentralized Exchange Powered by zkSync
-- [Curve + zkSync](https://zksync.curve.fi/) - Curve is an exchange liquidity pool on Ethereum
 - [Mute.io](https://mute.io/) - Mute makes cryptocurrency more accessible by providing an L2 based DeFi suite utilizing ZK-Rollup scalability
 
 ## Fiat
