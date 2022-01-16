@@ -19,7 +19,8 @@ Feel free to contribute!
 - [Curve + zkSync](https://zksync.curve.fi/) - Curve is an exchange liquidity pool on Ethereum
 - [Numio Wallet](https://www.numio.one/) - Layer 2 Wallet built on zkSync
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
-- [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2 Wallet (Avoid L1 bridging fees)
+- [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2 (Avoid L1 bridging fees)
+- [Banxa](https://l2.banxa.com/) - Buy crypto directly to zkSync L2 (Avoid L1 bridging fees)
 - [Storj](https://www.storj.io/) - Decentralized Cloud Storage, Storj use zkSync for host payments
 - [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
 - [Mute.io](https://mute.io/) - Mute makes cryptocurrency more accessible by providing an L2 based DeFi suite utilizing ZK-Rollup scalability
