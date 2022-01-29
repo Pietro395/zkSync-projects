@@ -28,7 +28,7 @@ Feel free to contribute!
 - [zkScan](https://zkscan.io/) - zkSync Block Explorer
 - [zkCheckout SDK](https://www.npmjs.com/package/zksync-checkout) - A wrapper around zksync library that helps to create and process payments.
 - [zkSync Mint](https://mint.zksync.dev/) - zkSync Minting tool
-- [zkSync Totorials](https://zksync.io/faq/tutorials.html) - zkSync Totorials
+- [zkSync Tutorials](https://zksync.io/faq/tutorials.html) - zkSync Tutorials
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
 - [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
