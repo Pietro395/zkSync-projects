@@ -34,6 +34,7 @@ Feel free to contribute!
 - [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
 - [LayerSwap](https://www.layerswap.io/) - Bridge your ETH from CEX to zkSync account
 - [Orbiter](https://www.orbiter.finance/) - Transfer between rollups
+- [zksync-force-exit-cli](https://www.npmjs.com/package/zksync-force-exit-cli) - Force withdraw from zkSync
 
 ## Other
 
