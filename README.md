@@ -26,6 +26,8 @@ Feel free to contribute!
 
 - [LayerSwap](https://www.layerswap.io/) - Bridge your ETH from CEX to zkSync account
 - [Orbiter](https://www.orbiter.finance/) - Transfer between rollups
+- [Mosaic](https://mosaic.composable.finance/) - SOON
+- [Celer cBridge](https://cbridge.celer.network/) - SOON
 
 ## Utility
 
