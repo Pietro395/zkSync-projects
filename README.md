@@ -22,6 +22,11 @@ Feel free to contribute!
 - [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2 (Avoid L1 bridging fees)
 - [Banxa](https://l2.banxa.com/) - Buy crypto directly to zkSync L2 (Avoid L1 bridging fees)
 
+## Bridge
+
+- [LayerSwap](https://www.layerswap.io/) - Bridge your ETH from CEX to zkSync account
+- [Orbiter](https://www.orbiter.finance/) - Transfer between rollups
+
 ## Utility
 
 - [zkLink](https://link.zksync.io/) - Create zkSync payment links
@@ -32,8 +37,6 @@ Feel free to contribute!
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
 - [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
-- [LayerSwap](https://www.layerswap.io/) - Bridge your ETH from CEX to zkSync account
-- [Orbiter](https://www.orbiter.finance/) - Transfer between rollups
 - [zksync-force-exit-cli](https://www.npmjs.com/package/zksync-force-exit-cli) - Force withdraw from zkSync
 
 ## Other
