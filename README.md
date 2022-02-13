@@ -26,8 +26,6 @@ Feel free to contribute!
 
 - [LayerSwap](https://www.layerswap.io/) - Bridge your ETH from CEX to zkSync account
 - [Orbiter](https://www.orbiter.finance/) - Transfer between rollups
-- [Mosaic](https://mosaic.composable.finance/) - SOON
-- [Celer cBridge](https://cbridge.celer.network/) - SOON
 
 ## Utility
 
@@ -46,6 +44,11 @@ Feel free to contribute!
 - [Gitcoin](https://gitcoin.co/) - Fund projects on Gitcoin with zkSync
 - [Storj](https://www.storj.io/) - Decentralized Cloud Storage, Storj use zkSync for host payments
 
+## Upcoming projects
+
+- [Mosaic](https://mosaic.composable.finance/)
+- [Celer cBridge](https://cbridge.celer.network/)
+- [Mystiko.Network](https://mystiko.network/)
 
 # 
 
