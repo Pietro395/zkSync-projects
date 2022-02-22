@@ -21,6 +21,7 @@ Feel free to contribute!
 
 - [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2 (Avoid L1 bridging fees)
 - [Banxa](https://l2.banxa.com/) - Buy crypto directly to zkSync L2 (Avoid L1 bridging fees)
+- [UTORG](https://utorg.pro/buy-usdczk-with-eur/) - Buy USDC on zkSync
 
 ## Bridge
 
@@ -29,8 +30,10 @@ Feel free to contribute!
 
 ## Utility
 
+- [zkSync Portal 2.0](https://portal.zksync.io/) - Developers tool for zkSync 2.0 Testnet
 - [zkLink](https://link.zksync.io/) - Create zkSync payment links
 - [zkScan](https://zkscan.io/) - zkSync Block Explorer
+- [zkSync Ecosystem](https://ecosystem.zksync.io/) - zkSync Ecosystem
 - [zkCheckout SDK](https://www.npmjs.com/package/zksync-checkout) - A wrapper around zksync library that helps to create and process payments.
 - [zkSync Mint](https://mint.zksync.dev/) - zkSync Minting tool
 - [zkSync Tutorials](https://zksync.io/faq/tutorials.html) - zkSync Tutorials
