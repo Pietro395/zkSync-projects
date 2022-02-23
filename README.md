@@ -15,7 +15,8 @@ Feel free to contribute!
 ## Finance
 
 - [ZigZag Exchange](https://info.zigzag.exchange/) - A Decentralized Exchange Powered by zkSync
-- [Mute.io](https://mute.io/) - Mute makes cryptocurrency more accessible by providing an L2 based DeFi suite utilizing ZK-Rollup scalability
+- [Mute.io](https://testnet.switch.mute.io) - Zkrollup based automated market maker (AMM), farming platform, and IDO platform [zkSync 2.0 Testnet] 
+
 
 ## Fiat
 
