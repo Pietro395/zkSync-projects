@@ -33,6 +33,7 @@ Feel free to contribute!
 
 - [zkLink](https://link.zksync.io/) - Create zkSync payment links
 - [zkScan](https://zkscan.io/) - zkSync Block Explorer
+- [zkScan 2.0](https://zksync2-testnet.zkscan.io/) - zkSync 2.0 testnet Block Explorer ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 - [zkSync Ecosystem](https://ecosystem.zksync.io/) - zkSync Ecosystem
 - [zkSync Mint](https://mint.zksync.dev/) - zkSync Minting tool
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
@@ -42,10 +43,12 @@ Feel free to contribute!
 
 ## Developers
 
-- [zkSync Portal 2.0](https://portal.zksync.io/) - Developers tool for zkSync 2.0 Testnet
+- [zkSync Portal 2.0](https://portal.zksync.io/) - Developers tool for zkSync 2.0 Testnet ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 - [zkCheckout SDK](https://www.npmjs.com/package/zksync-checkout) - A wrapper around zksync library that helps to create and process payments.
 - [zkSync Docs](https://docs.zksync.io/dev/) - zkSync Docs
 - [zksync-force-exit-cli](https://www.npmjs.com/package/zksync-force-exit-cli) - Force withdraw from zkSync
+- [Goerli Authenticated Faucet](https://goerli-faucet.mudit.blog/) - Goerli testnet Faucet ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
+- [Paradigm Faucet](https://faucet.paradigm.xyz/) - Goerli testnet Faucet ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 
 ## Other
 
