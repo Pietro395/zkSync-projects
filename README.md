@@ -8,20 +8,20 @@ Feel free to contribute!
 
 ## Wallet
 
-- [zkSync Wallet](https://wallet.zksync.io/) - zkSync Wallet
-- [Argent Wallet](https://www.argent.xyz/) - Layer 2 Wallet built on zkSync
-- [Numio Wallet](https://www.numio.one/) - Layer 2 Wallet built on zkSync
+- [zkSync Wallet](https://wallet.zksync.io/)
+- [Argent Wallet](https://www.argent.xyz/)
+- [Numio Wallet](https://www.numio.one/)
 
 ## Finance
 
 - [ZigZag Exchange](https://info.zigzag.exchange/) - A Decentralized Exchange Powered by zkSync
-- [Mute.io](https://testnet.switch.mute.io) - Zkrollup based automated market maker (AMM), farming platform, and IDO platform [zkSync 2.0 Testnet] 
+- [Mute.io](https://testnet.switch.mute.io) - Zkrollup based automated market maker (AMM), farming platform, and IDO platform  ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 
 
 ## Fiat
 
-- [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2 (Avoid L1 bridging fees)
-- [Banxa](https://l2.banxa.com/) - Buy crypto directly to zkSync L2 (Avoid L1 bridging fees)
+- [Ramp](https://ramp.network/buy/) - Buy crypto directly to zkSync L2
+- [Banxa](https://l2.banxa.com/) - Buy crypto directly to zkSync L2
 - [UTORG](https://utorg.pro/buy-usdczk-with-eur/) - Buy USDC on zkSync
 
 ## Bridge
@@ -31,16 +31,20 @@ Feel free to contribute!
 
 ## Utility
 
-- [zkSync Portal 2.0](https://portal.zksync.io/) - Developers tool for zkSync 2.0 Testnet
 - [zkLink](https://link.zksync.io/) - Create zkSync payment links
 - [zkScan](https://zkscan.io/) - zkSync Block Explorer
 - [zkSync Ecosystem](https://ecosystem.zksync.io/) - zkSync Ecosystem
-- [zkCheckout SDK](https://www.npmjs.com/package/zksync-checkout) - A wrapper around zksync library that helps to create and process payments.
 - [zkSync Mint](https://mint.zksync.dev/) - zkSync Minting tool
-- [zkSync Tutorials](https://zksync.io/faq/tutorials.html) - zkSync Tutorials
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
 - [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
+- [Sprintcheckout](https://www.sprintcheckout.com/) - Accept crypto payments bankless, cheap and fast.
+
+## Developers
+
+- [zkSync Portal 2.0](https://portal.zksync.io/) - Developers tool for zkSync 2.0 Testnet
+- [zkCheckout SDK](https://www.npmjs.com/package/zksync-checkout) - A wrapper around zksync library that helps to create and process payments.
+- [zkSync Docs](https://docs.zksync.io/dev/) - zkSync Docs
 - [zksync-force-exit-cli](https://www.npmjs.com/package/zksync-force-exit-cli) - Force withdraw from zkSync
 
 ## Other
