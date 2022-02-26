@@ -45,7 +45,8 @@ Feel free to contribute!
 
 - [zkSync Portal 2.0](https://portal.zksync.io/) - Developers tool for zkSync 2.0 Testnet ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 - [zkCheckout SDK](https://www.npmjs.com/package/zksync-checkout) - A wrapper around zksync library that helps to create and process payments.
-- [zkSync Docs](https://docs.zksync.io/dev/) - zkSync Docs
+- [zkSync 1.0 Docs](https://docs.zksync.io/dev/) - zkSync 1.0 Docs
+- [zkSync 2.0 Docs](https://v2-docs.zksync.io/dev/) - zkSync 2.0 Docs
 - [zksync-force-exit-cli](https://www.npmjs.com/package/zksync-force-exit-cli) - Force withdraw from zkSync
 - [Goerli Authenticated Faucet](https://goerli-faucet.mudit.blog/) - Goerli testnet Faucet ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 - [Paradigm Faucet](https://faucet.paradigm.xyz/) - Goerli testnet Faucet ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
