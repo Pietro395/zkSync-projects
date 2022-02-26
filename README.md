@@ -15,7 +15,7 @@ Feel free to contribute!
 ## Finance
 
 - [ZigZag Exchange](https://info.zigzag.exchange/) - A Decentralized Exchange Powered by zkSync
-- [Mute.io](https://testnet.switch.mute.io) - Zkrollup based automated market maker (AMM), farming platform, and IDO platform  ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
+- [Mute.io](https://testnet.switch.mute.io)  ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 
 
 ## Fiat
