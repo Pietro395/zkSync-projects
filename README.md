@@ -40,6 +40,7 @@ Feel free to contribute!
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
 - [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
 - [Sprintcheckout](https://www.sprintcheckout.com/) - Accept crypto payments bankless, cheap and fast.
+- [Mint Square](https://mintsquare.io/) - Mint Square is an NFT Platform ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 
 ## Developers
 
