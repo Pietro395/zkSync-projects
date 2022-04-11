@@ -16,6 +16,7 @@ Feel free to contribute!
 
 - [ZigZag Exchange](https://info.zigzag.exchange/) - A Decentralized Exchange Powered by zkSync
 - [Mute.io](https://testnet.switch.mute.io)  ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
+- [SyncSwap](https://syncswap.xyz/)  ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 
 
 ## Fiat
