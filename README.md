@@ -33,7 +33,7 @@ Feel free to contribute!
 
 ## Utility
 
-- [zkLink](https://link.zksync.io/) - Create zkSync payment links
+- [zkCheckout](https://checkout.zksync.io/) - Create zkSync payment links
 - [zkScan](https://zkscan.io/) - zkSync Block Explorer
 - [zkScan 2.0](https://zksync2-testnet.zkscan.io/) - zkSync 2.0 testnet Block Explorer ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 - [zkSync Ecosystem](https://ecosystem.zksync.io/) - zkSync Ecosystem
