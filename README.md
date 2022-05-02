@@ -40,6 +40,7 @@ Feel free to contribute!
 - [zkSync Ecosystem](https://ecosystem.zksync.io/) - zkSync Ecosystem
 - [zkSync Mint](https://mint.zksync.dev/) - zkSync Minting tool
 - [zkNFT](https://zknft.xyz) - Mint, explore, and swap NFTs on zkSync 
+- [zkExport](https://zkexport.netlify.app/) - zkSync data mass export tool
 - [zkSync Dashboard](https://dune.xyz/Marcov/zkSync) - zkSync Dashboard
 - [OpenSky](https://open-sky.vercel.app/) - Tool for mint NFT with zkSync
 - [Sprintcheckout](https://www.sprintcheckout.com/) - Accept crypto payments bankless, cheap and fast.
