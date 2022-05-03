@@ -19,6 +19,7 @@ Feel free to contribute!
 - [SyncSwap](https://syncswap.xyz/)  ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 - [Trustless](https://www.trustless.fi/)  ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
 - [Sat.is](https://satis.foundation/)  ![zkSync 2.0 testnet](https://img.shields.io/badge/zkSync%202.0-testnet-brightgreen)
+- [CryptoSwap](https://cryptoswap.org/) - A New DEX on zkSync
 
 
 ## Fiat
