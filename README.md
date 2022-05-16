@@ -60,14 +60,5 @@ Feel free to contribute!
 - [Gitcoin](https://gitcoin.co/) - Fund projects on Gitcoin with zkSync
 - [Storj](https://www.storj.io/) - Decentralized Cloud Storage, Storj use zkSync for host payments
 
-# Upcoming projects
-
-- [Mosaic](https://mosaic.composable.finance/)
-- [Celer cBridge](https://cbridge.celer.network/)
-- [Mystiko.Network](https://mystiko.network/)
 
 
-
-# Buy me a Coffee :coffee: ?
-
-zkSync wallet: 0x64E25193092C0EAD1d83c6F85C558A282a24460c
